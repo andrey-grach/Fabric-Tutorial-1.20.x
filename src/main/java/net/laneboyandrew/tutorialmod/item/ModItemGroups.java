@@ -21,6 +21,7 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.RUBY))
                     .entries(((displayContext, entries) -> {
                         entries.add(ModItems.RUBY);
+                        entries.add(ModItems.RAW_RUBY);
                         entries.add(Items.DIAMOND_AXE);
                         entries.add(ModBlocks.RUBY_BLOCK);
                     })).build()
