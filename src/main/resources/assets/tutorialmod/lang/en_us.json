@@ -3,5 +3,6 @@
 
   "block.tutorialmod.ruby_block": "Block of Ruby",
   "block.tutorialmod.raw_ruby_block": "Block of Raw Ruby",
+  "block.tutorialmod.sound_block": "Sound Block",
   "itemgroup.ruby": "Ruby Tutorial Group"
 }
